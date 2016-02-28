@@ -1,4 +1,4 @@
-#<img src = "https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/app/src/main/res/drawable/ic_launcher.png" width="40" /> Offline English Dictionary
+#<img src = "https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/app/src/main/res/drawable/ic_launcher.png" width="40" /> GoGreen
 GoGreen - An android app to support "Swachh Bharat Mission"  by increasing people's involvement through the app.
 
 In this app there are two major sections :
