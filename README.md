@@ -7,4 +7,8 @@ In this app there are two major sections :
 
 We can further improve this app by using different apis. For example we can use "google maps" api to provide cloud notification, as soon as a photo is uploaded, to the users near that current location.
 
+### License
 # <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
+Note that GoGreen is distributed under the [MIT License](http://opensource.org/licenses/MIT).
+
+Your feedback, ideas, suggestions are most welcome!
