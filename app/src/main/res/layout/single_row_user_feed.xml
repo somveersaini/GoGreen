@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/profile_pic"
+            android:layout_toRightOf="@+id/profile_pic"
+            android:text="Ajeet Kumar Meena"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/mutual_friends"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/userName"
+            android:layout_alignStart="@+id/userName"
+            android:layout_below="@+id/userName"
+            android:text="33 mutual friends"/>
+
+        <TextView
+            android:id="@+id/time_ago"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/userName"
+            android:layout_alignBottom="@+id/userName"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/userName"
+            android:layout_toRightOf="@+id/userName"
+            android:text="8 minute ago"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textSize="12dp"/>
+
+        <view
+            android:id="@+id/profile_pic"
+            class="com.galleri5.userfeed.UiHelper.CircularImageView"
+            android:layout_width="62dp"
+            android:layout_height="62dp"
+            android:layout_gravity="center"
+
+            />
+    </RelativeLayout>
+
+
+    <com.galleri5.userfeed.UiHelper.SnappyRecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"/>
+
+
+</LinearLayout>
