@@ -10,9 +10,9 @@ We can further improve this app by using different apis. For example we can use 
 ### Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/1.png" alt="Screenshot"/>
-  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/2.png" alt="Screenshot"/>
-  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/3.png" alt="Screenshot"/>
+  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/1.png" width="584" alt="Screenshot"/>
+  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/2.png" width="584" alt="Screenshot"/>
+  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/4.png" width="584" alt="Screenshot"/>
 </p>
 
 ### License
