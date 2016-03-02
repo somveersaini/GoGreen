@@ -1,7 +1,7 @@
 #<img src = "https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/app/src/main/res/drawable/ic_launcher.png" width="40" /> GoGreen
 GoGreen - An android app to support "Swachh Bharat Mission"  by increasing people's involvement through the app.
 
-In this app there are two major sections :
+#In this app there are two major sections :
 1) One for uploading the current scenario of a pace needed to be cleaned 
 2) Viewing the lists of places needed to be cleaned in the locality of the current user. Through this interface the user can select a place, he/she wants to volunteer in cleaning. Places are reviewed by different users based on its current condition.
 
