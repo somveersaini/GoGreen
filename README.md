@@ -7,6 +7,14 @@ GoGreen - An android app to support "Swachh Bharat Mission"  by increasing peopl
 
 We can further improve this app by using different apis. For example we can use "google maps" api to provide cloud notification, as soon as a photo is uploaded, to the users near that current location.
 
+### Screenshot
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/1.png" alt="Screenshot"/>
+  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/2.png" alt="Screenshot"/>
+  <img src="https://raw.githubusercontent.com/RatulGhosh/GoGreen/master/images/3.png" alt="Screenshot"/>
+</p>
+
 ### License
 # <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
 Note that GoGreen is distributed under the [MIT License](http://opensource.org/licenses/MIT).
